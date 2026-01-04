@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+
+# Databases
+*.sqlite3
+*.db
+
+# Local environment variables
+.env
+
+# Project specific
+uploads/
